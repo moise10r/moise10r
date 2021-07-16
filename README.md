@@ -4,8 +4,8 @@
 
 <p align="center">
   <em>
-    Hello, I am Moise Rushanika a <b>final year</b> undergraduate from <a href="https://uom.lk/"> <b>Independante</b> University of Kigali</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>team worker</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>preoccupied</b>
+    Hello, I am Moise Rushanika a <b>final year</b> undergraduate from <a href="https://www.ulk.ac.rw/"> <b>Independante</b> University of Kigali</a>. <br>
+    <b>a passionate autodidact</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>team worker</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>preoccupied</b>
     with <b>programming challenges</b> and always looking for new challenges and a partner with whom we will discover the challenges of the programming world.
   </em> 
   <br>
@@ -17,7 +17,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.🔭<br>
-✔  Open for collaborations in ***web development***<br>
+✔  Open for collaborations in ***web development***fire<br>
 ✔  I love exploring new tech stack and building cool stuffs  🌱<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 

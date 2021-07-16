@@ -13,6 +13,7 @@
 </p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.🔭<br>

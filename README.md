@@ -19,7 +19,6 @@
 ✔ Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.🔭<br>
 ✔  Open for collaborations in ***web development***    <!-- I'm Aadi :wave: --><br>
 ✔  I love exploring new tech stack and building cool stuffs  🌱<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 
  
 

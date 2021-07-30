@@ -41,8 +41,9 @@
 [![Electrical Engineering Development Badge](https://img.shields.io/badge/-Electrical%20Engineering-4C8CBF?style=flat&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=moise10r&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moise10r&layout=compact&text_color=000000&bg_color=ffffff)
+<hr>
+ <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moise10r&show_icons=true&locale=en" alt="akash-chowrasia" width="410" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moise10r&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
 
 
 

@@ -38,10 +38,6 @@
 ![Arduino Badge](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 [![Electrical Engineering Development Badge](https://img.shields.io/badge/-Electrical%20Engineering-4C8CBF?style=flat&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) 
 ---
-
 <hr>
  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moise10r&show_icons=true&locale=en" alt="akash-chowrasia" width="410" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moise10r&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
-
-
-

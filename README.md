@@ -1,4 +1,4 @@
-# Hey, I'm Moise Rushanika 👏 💻
+# Hey, I'm Moise Rushanika 👏 💻..
  
  ![screenM (1)](https://user-images.githubusercontent.com/57562869/125964448-c8bbc20f-3da3-4056-aa93-d6aea7eb96ef.png)
 
@@ -16,9 +16,9 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.🔭<br>
+✔ Currently working, learning, and growing my skillset in deep learning, competitive coding, data structures and algorithms.🔭<br>
 ✔  Open for collaborations in ***web development***    <!-- I'm Aadi :wave: --><br>
-✔  I love exploring new tech stack and building cool stuffs  🌱<br>
+✔  I love exploring new tech stacks and building cool stuff 🌱<br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Technologies and tools🔧...***
 <p align="left">
